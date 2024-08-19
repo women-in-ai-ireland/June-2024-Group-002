@@ -1,7 +1,22 @@
 # June-2024-Group-002
-
 Welcome to the Group 002 repository for the WaiPRACTICE June 2024 cohort. This project, developed as part of the Women in AI GenAI WAIPractice 2024 initiative, features a study tool tentatively named **Study_Pal_Geo**. This tool is designed to be an effective study aid for a specific exam.
 
+<h1> Topic</h1>
+<em>One line summary</em>
+
+## Contents:
+1. [Premise](#pre)<br/>
+2. [Our Contribution](#our)<br/>
+3. [Our Conclusion/What we have Learnt](#con)<br/>
+4. [Future Work](#fw)<br/>
+5. [Refrences](#ref)<br/>
+6. [Contributors](#contributor)<br/>
+
+<br/>
+<p>Team member intro and background</p><br/>
+
+### <a name="pre">1. Premise</a>
+Background and why you chose to do the work <em><br/>
 ## Goal
 
 The primary goal of this project is to develop a study tool utilizing Large Language Models (LLMs) and a Retrieval Augmented Generation (RAG) Framework to assist students in exam preparation. The project was chosen to address the following needs:
@@ -12,6 +27,17 @@ The primary goal of this project is to develop a study tool utilizing Large Lang
 4. **Reduce Stress:** Ensure reliability of information to minimize stress during exam preparation.
 
 The initial focus of the project is on GCSE Geography, with plans to expand to other exam levels and boards in the future.
+### <a name="our">2. Our Contribution</a>
+<ul>
+ <li><b>Pre-processing the Data Further</b></li>
+ <p>Your contribution/improvement, see <a href="https://www.google.com">any related links</a></p>
+</ul>
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/69084008/95680839-409dfc80-0bd4-11eb-9dd7-3cf5567a2786.png" alt="image"/>
+ <br/>
+    <em>Figure 1: Figure Title</em>
+ </p>
+
 
 ## Project Setup
 
@@ -36,39 +62,6 @@ Throughout this project, the team gained insights into:
 ## Running the Project Locally
 
 To run this project locally, please note the following:
-
-
-# June-2024-Group-001
-Find below the Group-001's blog for the WaiPRACTICE June 2024 cohort HobbyBot chatbot project.
-
-<h1> Topic</h1>
-<em>One line summary</em>
-
-## Contents:
-1. [Premise](#pre)<br/>
-2. [Our Contribution](#our)<br/>
-3. [Our Conclusion/What we have Learnt](#con)<br/>
-4. [Future Work](#fw)<br/>
-5. [Refrences](#ref)<br/>
-6. [Contributors](#contributor)<br/>
-
-<br/>
-<p>Team member intro and background</p><br/>
-
-### <a name="pre">1. Premise</a>
-Background and why you chose to do the work <em><br/>
-
-### <a name="our">2. Our Contribution</a>
-<ul>
- <li><b>Pre-processing the Data Further</b></li>
- <p>Your contribution/improvement, see <a href="https://www.google.com">any related links</a></p>
-</ul>
- <p align="center">
- <img src="https://user-images.githubusercontent.com/69084008/95680839-409dfc80-0bd4-11eb-9dd7-3cf5567a2786.png" alt="image"/>
- <br/>
-    <em>Figure 1: Figure Title</em>
- </p>
-
 
 ### <a name="con"> 3. Our Conclusion/What we have Learnt</a>
 <ul>
