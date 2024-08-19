@@ -1,5 +1,5 @@
 # June-2024-Group-002
-
+test change ##
 Welcome to the Group 002 repository for the WaiPRACTICE June 2024 cohort. This project, developed as part of the Women in AI GenAI WAIPractice 2024 initiative, features a study tool tentatively named **Study_Pal_Geo**. This tool is designed to be an effective study aid for a specific exam.
 
 ## Goal
