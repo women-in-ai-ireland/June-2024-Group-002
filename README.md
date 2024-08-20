@@ -78,8 +78,7 @@ Future improvements for this project include:
 1. Github Repository: women-in-ai-ireland/June-2024-Group-002: WAIPractice June 2024 Group 002 (github.com)
 2. [AQA GCSE Revision Guide - The Coleshill School](https://coleshill.warwickshire.sch.uk/files/2022/04/TCS-Revision-Guide.pdf)
 3. Image Sources:
-   - Figure 1: [Source for LLMs Image](https://source-link-for-llm-image.com)
-   - Figure 2: [Source for RAG Diagram]([https://source-link-for-rag-diagram.com](https://medium.com/@akriti.upadhyay/implementing-rag-with-langchain-and-hugging-face-28e3ea66c5f7))
+   - Figure 2: [Source for RAG Diagram]((https://medium.com/@akriti.upadhyay/implementing-rag-with-langchain-and-hugging-face-28e3ea66c5f7))
 
 ### <a name="contributor">6. Contributors</a>
 
