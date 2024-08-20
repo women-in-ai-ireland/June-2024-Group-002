@@ -10,10 +10,6 @@ Welcome to the Group 002 repository for the WaiPRACTICE June 2024 cohort. This p
 5. [References](#ref)
 6. [Contributors](#contributor)
 
-## Team Members
-<p>Team member intro and background</p>
-
-### <a name="pre">1. Premise</a>
 
 #### Summary of Project
 
@@ -88,3 +84,4 @@ English language teacher with a passion for education and linguistics. Areas of 
 2. **Sara Garcia**
 Healthcare Data analyst. Enthusiastic for Fairness and Responsible AI, specifically in the healthcare domain.  
 
+A special thanks to Women in AI for the amazing oppurtunity.
